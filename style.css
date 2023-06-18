@@ -1,0 +1,62 @@
+body{
+    background-color: #eafaff;
+}
+.topBar{
+    width: auto;
+    height: auto;
+    background-color: #F5E7D2;
+    overflow: hidden;
+    margin-top: 30px;
+    margin-left: 90px;
+    margin-right: 90px;
+}
+#leftMenu{
+     font-size: 25px;
+     color: #FFA500;
+     float: left;
+     padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 15px;
+
+     
+}
+#menuImg{
+    width: 25px; 
+   height: 25px;
+   float: left;
+   padding-top: 10px;
+    padding-bottom: 10px;
+   padding-left: 10px;
+   padding-right: 7px;
+}
+
+
+.topBar a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+
+
+.rightMenuLeft{
+    color: rgb(53, 52, 50);
+    margin-left: 5px;
+    margin-right: 5px ;
+    float: right;
+    font-size: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+   padding-right: 15px;
+}
+.rightMenuRight{
+    color: rgb(53, 52, 50);
+    margin-left: 5px;
+    margin-right: 50px ;
+    float: right;
+    font-size: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+   padding-right: 15px;
+}
